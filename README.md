@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm beatlesforever! 👋
 
-<!--
-**beatlesforever/beatlesforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=beatlesforever&color=blue)
 
-Here are some ideas to get you started:
+### About Me
+I'm currently a PhD student specializing in distributed training, with a particular focus on communication primitives. I have a strong interest in music, especially The Beatles and Frank Ocean.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Python, Java, C
+- **Web Development**: HTML, CSS
+- **Databases**: MySQL
+- **Research Focus**: Distributed Training, Communication Primitives
+
+
+## GitHub Stats
+![beatlesforever's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatlesforever&show_icons=true&theme=radical)
+
+## Get in Touch
+- **Email**: zhouhaorancode@gmail.com
+
+## Fun Fact
+Did you know? No one can hold back their tears while listening to Frank Ocean's "Blonde"!
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat about  distributed training, or music! 🎸
