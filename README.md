@@ -21,4 +21,4 @@ I'm currently a PhD student specializing in distributed training, with a particu
 ## Fun Fact
 Did you know? No one can hold back their tears while listening to Frank Ocean's "Blonde"!
 
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat about  distributed training, or music! 🎸
+Thanks for visiting my profile!
