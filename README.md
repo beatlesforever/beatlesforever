@@ -1,4 +1,4 @@
-# Hello, I'm beatlesforever! 👋
+# Hello, I'm zhouhaoran! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=beatlesforever&color=blue)
 
@@ -17,8 +17,5 @@ I'm currently a PhD student specializing in distributed training, with a particu
 
 ## Get in Touch
 - **Email**: zhouhaorancode@gmail.com
-
-## Fun Fact
-Did you know? No one can hold back their tears while listening to Frank Ocean's "Blonde"!
 
 Thanks for visiting my profile!
