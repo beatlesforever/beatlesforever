@@ -3,7 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=beatlesforever&color=blue)
 
 ### About Me
-I'm currently a PhD student specializing in distributed training, with a particular focus on communication primitives. I have a strong interest in music, especially The Beatles and Frank Ocean.
+I will graduate from Beijing University of Posts and Telecommunications (BUPT) in 2025 and join Tsinghua University as a PhD student in the same year.
+My research interests are mainly in the areas of **distributed training** and **communication primitives**. 
 
 ## Skills
 - **Languages**: Python, Java, C, C++
