@@ -12,9 +12,11 @@ My research interests are mainly in the areas of **distributed training** and **
 - **Databases**: MySQL
 - **Research Focus**: Distributed Training, Communication Primitives
 
-
 ## GitHub Stats
 ![beatlesforever's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatlesforever&show_icons=true&theme=radical)
+
+## Recent Activity
+![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=beatlesforever&theme=radical)
 
 ## Get in Touch
 - **Email**: zhouhaorancode@gmail.com
