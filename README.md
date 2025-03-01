@@ -6,7 +6,7 @@
 I'm currently a PhD student specializing in distributed training, with a particular focus on communication primitives. I have a strong interest in music, especially The Beatles and Frank Ocean.
 
 ## Skills
-- **Languages**: Python, Java, C
+- **Languages**: Python, Java, C, C++
 - **Web Development**: HTML, CSS
 - **Databases**: MySQL
 - **Research Focus**: Distributed Training, Communication Primitives
