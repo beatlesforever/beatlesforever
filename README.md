@@ -3,8 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=beatlesforever&color=blue)
 
 ### About Me
-I will graduate from Beijing University of Posts and Telecommunications (BUPT) in 2025 and join Tsinghua University as a PhD student in the same year.
-My research interests are mainly in the areas of **distributed training** and **communication primitives**. 
+- I will graduate from **Beijing University of Posts and Telecommunications (BUPT)** in 2025 and join **Tsinghua University** as a PhD student in the same year.
+- **Research interests** : **distributed training** and **communication primitives**. 
+- If you have any questions related to these topics, feel free to reach out! Let's learn and grow together.
 
 ## Skills
 - **Languages**: Python, Java, C, C++
@@ -15,10 +16,7 @@ My research interests are mainly in the areas of **distributed training** and **
 ## GitHub Stats
 ![beatlesforever's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatlesforever&show_icons=true&theme=radical)
 
-## Recent Activity
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=beatlesforever&theme=radical)
-
 ## Get in Touch
-- **Email**: zhouhaorancode@gmail.com
+- **Email**: zhouhaoran@bupt.edu.cn
 
 Thanks for visiting my profile!
