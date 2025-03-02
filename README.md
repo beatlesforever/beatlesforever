@@ -1,4 +1,4 @@
-# Hello, I'm zhouhaoran（周浩然）! 👋
+# Hello, I'm ZhouHaoran（周浩然）! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=beatlesforever&color=blue)
 
