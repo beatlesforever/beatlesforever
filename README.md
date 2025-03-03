@@ -16,6 +16,13 @@
 ## GitHub Stats
 ![beatlesforever's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatlesforever&show_icons=true&theme=radical)
 
+## GitHub Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatlesforever/beatlesforever/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatlesforever/beatlesforever/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/beatlesforever/beatlesforever/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Get in Touch
 - **Email**: zhouhaoran@bupt.edu.cn
 
